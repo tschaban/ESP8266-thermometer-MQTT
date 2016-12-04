@@ -4,3 +4,4 @@ Thermometer implementation on ESP8266 with MQTT, developed in Arduino / C
 * sketch implementing: ESP8266 with DS18B20 sensor
 * publishing temperature to MQTT Broker
 * it's possible to configure the interval how often it should publish value of temperature
+* it's possible to correct temperature value returned to MQTT Broker by setting TEMP_CORRECT parameter
